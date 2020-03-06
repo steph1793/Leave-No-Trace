@@ -1,2 +1,2 @@
 # Leave-No-Trace
-Learning to Reset for Safe and Autonomous Reinforcement Learning
+:wink: :put_litter_in_its_place: Learning to Reset for Safe and Autonomous Reinforcement Learning

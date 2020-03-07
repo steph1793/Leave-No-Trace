@@ -13,7 +13,11 @@ We train our agent to walk using a Soft Actor Critic method. We experimented thi
 
 ## Highlight Some results
 ### SAC Only method visualiztion (after 1100 steps)
-<center>![Sac only](https://raw.githubusercontent.com/steph1793/Leave-No-Trace/master/results_viz/sac_only.gif)</center>
+<p align="center">
+  ![Sac only](https://raw.githubusercontent.com/steph1793/Leave-No-Trace/master/results_viz/sac_only.gif)
+</p>
 
 ### SAC using Leave-No-Trace Framework visualization (after 800 steps)
-<center>![Sac only](https://raw.githubusercontent.com/steph1793/Leave-No-Trace/master/results_viz/sac_with_reset.gif)</center>
+<p align="center">
+  ![Sac only](https://raw.githubusercontent.com/steph1793/Leave-No-Trace/master/results_viz/sac_with_reset.gif)
+</p>

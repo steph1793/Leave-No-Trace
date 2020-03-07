@@ -12,5 +12,8 @@ We can launch the project  by running the notebook on google colab. You have two
 We train our agent to walk using a Soft Actor Critic method. We experimented this method alone and we also tested the Leave-No-Trace.
 
 ## Highlight Some results
+### SAC Only method visualiztion (after 1100 steps)
+<center>![Sac only](https://raw.githubusercontent.com/steph1793/Leave-No-Trace/master/results_viz/sac_only.gif)</center>
 
-![Sac only](https://raw.githubusercontent.com/steph1793/Leave-No-Trace/master/results_viz/sac_only.gif)
+### SAC using Leave-No-Trace Framework visualization (after 800 steps)
+<center>![Sac only](https://raw.githubusercontent.com/steph1793/Leave-No-Trace/master/results_viz/sac_with_reset.gif)</center>

@@ -4,3 +4,8 @@
 We based our work on this [paper](https://arxiv.org/abs/1711.06782). The authors aimed to provide a framework for safe learning, allowing our agent to learn good behaviour (quickly) and run for longer episodes avoiding numerous resets which can be costly.
 
 
+## How to run the code
+We can launch the project  by running the notebook on google colab. You have two main sections : The experiments section and the results section. In the Notebook we clone the repository. if you want to visualize the results, you can go directly to the results section(after installing and importing the dependencies). And if you want to launch you own experiments, you need to rename or remove the old results folder.
+
+
+
